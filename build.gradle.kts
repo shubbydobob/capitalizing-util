@@ -57,7 +57,7 @@ publishing {
         //
         create<MavenPublication>("capitalizing-util") {
             from(components["java"])
-            groupId = "com.github.shubby"
+            groupId = "com.github.shubbydobob"
             artifactId ="capitalizing-util"
             version = project.version.toString()
         }
