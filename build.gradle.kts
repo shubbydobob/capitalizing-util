@@ -9,7 +9,7 @@ plugins {
 }
 
 group = "com.example"
-version = "0.1.0-rc" // rc는 후보 버전(?)
+version = "0.1.0-rc2" // rc는 후보 버전(?)
 
 repositories {
     mavenCentral()
